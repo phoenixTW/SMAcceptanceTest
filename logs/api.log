@@ -1,0 +1,27 @@
+11:07:19.569 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs
+11:17:35.319 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/hello_world.spec
+11:18:09.049 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:09.050 [ERRO] Spec Parse failure: [ParseError] /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec : line no: 1, Spec does not have any elements
+11:18:09.126 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:09.126 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:09.126 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_bak___
+11:18:09.127 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:18:41.092 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:41.093 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:41.093 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:18:41.186 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:41.186 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:18:41.186 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:19:15.401 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:19:15.401 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:19:15.401 [ERRO] Spec Parse failure: [ParseError] /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec : line no: 7, Step should not be blank
+11:19:15.401 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:20:09.440 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:20:09.441 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:20:09.442 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:28:10.555 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:28:10.555 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:28:10.556 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
+11:28:13.178 [INFO] Spec removed: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:28:13.178 [INFO] Spec added/modified: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec
+11:28:13.179 [ERRO] Removing watcher on : /Users/kaustavc/Projects/classroom/projects/STEP-Management/SM-Acceptance-Test/specs/CreateGroup.spec___jb_old___
