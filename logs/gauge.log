@@ -52,3 +52,95 @@ The following failures occured:
 12:09:24.685 [INFO] 1 specifications executed, 0 failed
 12:09:24.685 [INFO] 0 specifications skipped
 12:09:24.686 [INFO] 12.308s
+12:38:55.502 [DEBU] Plugin [Html Report] with pid [47637] has exited
+12:38:56.549 [INFO] 
+The following failures occured:
+12:38:56.550 [INFO] 2 scenarios executed, 1 failed
+12:38:56.550 [INFO] 1 specifications executed, 1 failed
+12:38:56.550 [INFO] 0 specifications skipped
+12:38:56.550 [INFO] 15.554s
+12:40:36.007 [DEBU] Plugin [Html Report] with pid [47674] has exited
+12:40:39.869 [INFO] 
+The following failures occured:
+12:40:39.899 [INFO] 2 scenarios executed, 1 failed
+12:40:39.899 [INFO] 1 specifications executed, 1 failed
+12:40:39.899 [INFO] 0 specifications skipped
+12:40:39.899 [INFO] 14.963s
+12:44:06.185 [DEBU] Plugin [Html Report] with pid [47721] has exited
+12:44:09.639 [INFO] 
+The following failures occured:
+12:44:09.650 [INFO] 2 scenarios executed, 1 failed
+12:44:09.650 [INFO] 1 specifications executed, 1 failed
+12:44:09.650 [INFO] 0 specifications skipped
+12:44:09.650 [INFO] 11.331s
+12:44:31.271 [DEBU] Plugin [Html Report] with pid [47741] has exited
+12:44:34.204 [INFO] 
+The following failures occured:
+12:44:34.205 [INFO] 2 scenarios executed, 1 failed
+12:44:34.205 [INFO] 1 specifications executed, 1 failed
+12:44:34.205 [INFO] 0 specifications skipped
+12:44:34.205 [INFO] 11.392s
+12:47:04.599 [DEBU] Plugin [Html Report] with pid [47788] has exited
+12:47:07.845 [INFO] 
+The following failures occured:
+12:47:07.862 [INFO] 2 scenarios executed, 1 failed
+12:47:07.862 [INFO] 1 specifications executed, 1 failed
+12:47:07.862 [INFO] 0 specifications skipped
+12:47:07.862 [INFO] 10.676s
+12:48:10.051 [DEBU] Plugin [Html Report] with pid [47819] has exited
+12:48:10.887 [INFO] 
+The following failures occured:
+12:48:10.887 [INFO] 2 scenarios executed, 1 failed
+12:48:10.887 [INFO] 1 specifications executed, 1 failed
+12:48:10.887 [INFO] 0 specifications skipped
+12:48:10.887 [INFO] 10.754s
+12:49:38.946 [DEBU] Plugin [Html Report] with pid [47847] has exited
+12:49:39.365 [INFO] 2 scenarios executed, 0 failed
+12:49:39.365 [INFO] 1 specifications executed, 0 failed
+12:49:39.365 [INFO] 0 specifications skipped
+12:49:39.365 [INFO] 9.872s
+12:50:32.240 [DEBU] Plugin [Html Report] with pid [47871] has exited
+12:50:32.659 [INFO] 2 scenarios executed, 0 failed
+12:50:32.659 [INFO] 1 specifications executed, 0 failed
+12:50:32.659 [INFO] 0 specifications skipped
+12:50:32.659 [INFO] 9.856s
+12:51:08.473 [DEBU] Plugin [Html Report] with pid [47894] has exited
+12:51:08.893 [INFO] 2 scenarios executed, 0 failed
+12:51:08.893 [INFO] 1 specifications executed, 0 failed
+12:51:08.893 [INFO] 0 specifications skipped
+12:51:08.893 [INFO] 9.898s
+12:51:41.107 [DEBU] Runner exited with error: exit status 1
+12:51:41.108 [DEBU] Runner connection error: Runner exited with error: exit status 1
+12:51:41.108 [DEBU] Error while killing runner: os: process already finished
+12:51:41.109 [CRIT] Failed to start gauge API. Runner exited with error: exit status 1
+
+12:53:05.065 [DEBU] Plugin [Html Report] with pid [47949] has exited
+12:53:05.484 [INFO] 2 scenarios executed, 0 failed
+12:53:05.484 [INFO] 1 specifications executed, 0 failed
+12:53:05.484 [INFO] 0 specifications skipped
+12:53:05.484 [INFO] 14.096s
+12:53:29.560 [DEBU] Plugin [Html Report] with pid [47973] has exited
+12:53:29.978 [INFO] 2 scenarios executed, 0 failed
+12:53:29.979 [INFO] 1 specifications executed, 0 failed
+12:53:29.979 [INFO] 0 specifications skipped
+12:53:29.979 [INFO] 10.702s
+12:54:12.607 [DEBU] Plugin [Html Report] with pid [47996] has exited
+12:54:13.028 [INFO] 2 scenarios executed, 0 failed
+12:54:13.028 [INFO] 1 specifications executed, 0 failed
+12:54:13.028 [INFO] 0 specifications skipped
+12:54:13.028 [INFO] 10.933s
+12:55:08.074 [DEBU] Plugin [Html Report] with pid [48021] has exited
+12:55:08.495 [INFO] 2 scenarios executed, 0 failed
+12:55:08.495 [INFO] 1 specifications executed, 0 failed
+12:55:08.495 [INFO] 0 specifications skipped
+12:55:08.495 [INFO] 11.001s
+12:56:09.456 [DEBU] Plugin [Html Report] with pid [48050] has exited
+12:56:09.874 [INFO] 2 scenarios executed, 0 failed
+12:56:09.874 [INFO] 1 specifications executed, 0 failed
+12:56:09.874 [INFO] 0 specifications skipped
+12:56:09.874 [INFO] 10.61s
+12:56:40.317 [DEBU] Plugin [Html Report] with pid [48069] has exited
+12:56:40.737 [INFO] 2 scenarios executed, 0 failed
+12:56:40.738 [INFO] 1 specifications executed, 0 failed
+12:56:40.738 [INFO] 0 specifications skipped
+12:56:40.738 [INFO] 16.171s

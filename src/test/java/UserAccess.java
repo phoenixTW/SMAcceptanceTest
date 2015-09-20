@@ -30,4 +30,28 @@ public class UserAccess {
         int indexOfVarifierText = link.getText().indexOf(verifierText);
         assertTrue(indexOfVarifierText > -1);
     }
+
+    @Step("click dropdown")
+    public void clickOnDropdown() {
+        WebElement dropdownNav = DriverFactory.driver.findElement(By.id("top-nav-label"));
+        dropdownNav.click();
+    }
+
+    @Step("click <LinkName>")
+    public void clickOnLinkName(String linkName) {
+        WebElement link = DriverFactory.driver.findElement(By.linkText(linkName));
+        link.click();
+        try {
+            Thread.sleep(1000);                 //1000 milliseconds is one second.
+        } catch(InterruptedException ex) {
+            Thread.currentThread().interrupt();
+        }
+
+    }
+
+    @Step("Verify login")
+    public void varifyLogin() {
+        WebElement title = DriverFactory.driver.findElement(By.className("login-title"));
+        assertEquals("LOGIN", title.getText());
+    }
 }
