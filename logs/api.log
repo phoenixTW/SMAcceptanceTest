@@ -81,3 +81,11 @@
 12:54:56.950 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
 12:55:58.726 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
 12:56:24.026 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+12:57:49.767 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+13:59:52.412 [ERRO] Error response from runner on getStepNamesRequest: Request Timeout
+13:59:52.417 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+14:00:41.680 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+14:01:37.567 [ERRO] Runner connection failed: Runner exited with error: exit status 1
+14:01:37.571 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+14:02:03.700 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs
+14:03:05.505 [INFO] Watching directory: /Users/kaustavc/Projects/classroom/projects/STEP-Management/SMAcceptanceTest/specs

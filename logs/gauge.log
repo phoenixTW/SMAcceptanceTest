@@ -144,3 +144,32 @@ The following failures occured:
 12:56:40.738 [INFO] 1 specifications executed, 0 failed
 12:56:40.738 [INFO] 0 specifications skipped
 12:56:40.738 [INFO] 16.171s
+12:58:02.917 [DEBU] Plugin [Html Report] with pid [48147] has exited
+12:58:03.334 [INFO] 2 scenarios executed, 0 failed
+12:58:03.334 [INFO] 1 specifications executed, 0 failed
+12:58:03.334 [INFO] 0 specifications skipped
+12:58:03.334 [INFO] 12.986s
+14:00:53.240 [DEBU] Plugin [Html Report] with pid [48712] has exited
+14:00:54.076 [INFO] 
+The following failures occured:
+14:00:54.076 [INFO] 1 scenarios executed, 1 failed
+14:00:54.076 [INFO] 1 specifications executed, 1 failed
+14:00:54.076 [INFO] 0 specifications skipped
+14:00:54.076 [INFO] 11.384s
+14:01:37.567 [DEBU] Runner exited with error: exit status 1
+14:01:37.567 [DEBU] Runner connection error: Runner exited with error: exit status 1
+14:01:37.567 [DEBU] Error while killing runner: os: process already finished
+14:01:37.572 [CRIT] Failed to start gauge API. Runner exited with error: exit status 1
+
+14:02:14.437 [DEBU] Plugin [Html Report] with pid [48739] has exited
+14:02:15.582 [INFO] 
+The following failures occured:
+14:02:15.582 [INFO] 1 scenarios executed, 1 failed
+14:02:15.582 [INFO] 1 specifications executed, 1 failed
+14:02:15.582 [INFO] 0 specifications skipped
+14:02:15.582 [INFO] 10.574s
+14:03:16.712 [DEBU] Plugin [Html Report] with pid [48751] has exited
+14:03:17.131 [INFO] 1 scenarios executed, 0 failed
+14:03:17.131 [INFO] 1 specifications executed, 0 failed
+14:03:17.131 [INFO] 0 specifications skipped
+14:03:17.131 [INFO] 11.046s
