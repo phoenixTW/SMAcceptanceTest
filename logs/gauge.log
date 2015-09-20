@@ -8,3 +8,47 @@
 11:24:47.456 [INFO] 1 specifications executed, 0 failed
 11:24:47.456 [INFO] 0 specifications skipped
 11:24:47.456 [INFO] 3.6s
+11:44:13.402 [DEBU] Plugin [Html Report] with pid [46848] has exited
+11:44:13.823 [INFO] 1 scenarios executed, 0 failed
+11:44:13.823 [INFO] 1 specifications executed, 0 failed
+11:44:13.823 [INFO] 0 specifications skipped
+11:44:13.823 [INFO] 10.275s
+11:57:37.440 [DEBU] Plugin [Html Report] with pid [47022] has exited
+11:57:40.998 [INFO] 
+The following failures occured:
+11:57:40.998 [INFO] 1 scenarios executed, 1 failed
+11:57:40.998 [INFO] 1 specifications executed, 1 failed
+11:57:40.998 [INFO] 0 specifications skipped
+11:57:40.998 [INFO] 8.986s
+12:00:45.615 [DEBU] Plugin [Html Report] with pid [47078] has exited
+12:00:48.547 [INFO] 
+The following failures occured:
+12:00:48.548 [INFO] 1 scenarios executed, 1 failed
+12:00:48.548 [INFO] 1 specifications executed, 1 failed
+12:00:48.548 [INFO] 0 specifications skipped
+12:00:48.548 [INFO] 8.424s
+12:02:40.794 [DEBU] Plugin [Html Report] with pid [47113] has exited
+12:02:41.214 [INFO] 1 scenarios executed, 0 failed
+12:02:41.214 [INFO] 1 specifications executed, 0 failed
+12:02:41.214 [INFO] 0 specifications skipped
+12:02:41.214 [INFO] 11.937s
+12:03:49.309 [DEBU] Plugin [Html Report] with pid [47144] has exited
+12:03:49.728 [INFO] 1 scenarios executed, 0 failed
+12:03:49.728 [INFO] 1 specifications executed, 0 failed
+12:03:49.728 [INFO] 0 specifications skipped
+12:03:49.728 [INFO] 9.14s
+12:06:32.044 [DEBU] Plugin [Html Report] with pid [47184] has exited
+12:06:32.463 [INFO] 1 scenarios executed, 0 failed
+12:06:32.463 [INFO] 1 specifications executed, 0 failed
+12:06:32.463 [INFO] 0 specifications skipped
+12:06:32.463 [INFO] 10.618s
+12:07:14.199 [DEBU] Plugin [Html Report] with pid [47211] has exited
+12:07:14.619 [INFO] 1 scenarios executed, 0 failed
+12:07:14.619 [INFO] 1 specifications executed, 0 failed
+12:07:14.620 [INFO] 0 specifications skipped
+12:07:14.620 [INFO] 9.645s
+12:09:24.266 [DEBU] Plugin [Html Report] with pid [47247] has exited
+12:09:24.685 [INFO] 1 scenarios executed, 0 failed
+12:09:24.685 [INFO] 1 specifications executed, 0 failed
+12:09:24.685 [INFO] 0 specifications skipped
+12:09:24.686 [INFO] 12.308s
