@@ -10,11 +10,10 @@ Varify Create group without validation
 * click submit
 
 * click create group button
-* enter name "STEP 2"
+* enter name "STEP 1"
 * enter description "This batch started on 2013 and ended on 2015"
 * click save button
 * Ensure results contain following products 
      |Item name|
      |---------|
      |STEP 1   |
-     |STEP 2   |
