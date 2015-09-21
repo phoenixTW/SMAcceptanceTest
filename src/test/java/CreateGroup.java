@@ -1,4 +1,3 @@
-import com.sun.tools.javac.util.Name;
 import com.thoughtworks.gauge.Step;
 import com.thoughtworks.gauge.Table;
 import org.openqa.selenium.By;
