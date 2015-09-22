@@ -8,7 +8,7 @@ Verify Login with valid user
 * enter username "step2014.tw@gmail.com"
 * enter password "step2014"
 * click submit
-* Verify text "Welcome step2014.tw@gmail.com"
+* Verify text "step2014.tw@gmail.com"
 
 Verify Logout with valid user
 -----------------------------
